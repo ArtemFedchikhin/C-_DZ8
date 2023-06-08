@@ -1,0 +1,15 @@
+C:\Users\fedch\OneDrive\Рабочий стол\C#_DZ8\Tack4\bin\Debug\net6.0\Tack4.exe
+C:\Users\fedch\OneDrive\Рабочий стол\C#_DZ8\Tack4\bin\Debug\net6.0\Tack4.deps.json
+C:\Users\fedch\OneDrive\Рабочий стол\C#_DZ8\Tack4\bin\Debug\net6.0\Tack4.runtimeconfig.json
+C:\Users\fedch\OneDrive\Рабочий стол\C#_DZ8\Tack4\bin\Debug\net6.0\Tack4.dll
+C:\Users\fedch\OneDrive\Рабочий стол\C#_DZ8\Tack4\bin\Debug\net6.0\Tack4.pdb
+C:\Users\fedch\OneDrive\Рабочий стол\C#_DZ8\Tack4\obj\Debug\net6.0\Tack4.csproj.AssemblyReference.cache
+C:\Users\fedch\OneDrive\Рабочий стол\C#_DZ8\Tack4\obj\Debug\net6.0\Tack4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fedch\OneDrive\Рабочий стол\C#_DZ8\Tack4\obj\Debug\net6.0\Tack4.AssemblyInfoInputs.cache
+C:\Users\fedch\OneDrive\Рабочий стол\C#_DZ8\Tack4\obj\Debug\net6.0\Tack4.AssemblyInfo.cs
+C:\Users\fedch\OneDrive\Рабочий стол\C#_DZ8\Tack4\obj\Debug\net6.0\Tack4.csproj.CoreCompileInputs.cache
+C:\Users\fedch\OneDrive\Рабочий стол\C#_DZ8\Tack4\obj\Debug\net6.0\Tack4.dll
+C:\Users\fedch\OneDrive\Рабочий стол\C#_DZ8\Tack4\obj\Debug\net6.0\refint\Tack4.dll
+C:\Users\fedch\OneDrive\Рабочий стол\C#_DZ8\Tack4\obj\Debug\net6.0\Tack4.pdb
+C:\Users\fedch\OneDrive\Рабочий стол\C#_DZ8\Tack4\obj\Debug\net6.0\Tack4.genruntimeconfig.cache
+C:\Users\fedch\OneDrive\Рабочий стол\C#_DZ8\Tack4\obj\Debug\net6.0\ref\Tack4.dll
